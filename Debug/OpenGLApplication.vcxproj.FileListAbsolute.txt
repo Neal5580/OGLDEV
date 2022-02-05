@@ -1,0 +1,2 @@
+C:\Users\neal\Documents\Study\OpenGL-OGLDEV\OpenGLApplication\Debug\OpenGLApplication.exe
+C:\Users\neal\Documents\Study\OpenGL-OGLDEV\OpenGLApplication\Debug\OpenGLApplication.pdb
